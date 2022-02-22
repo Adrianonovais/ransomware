@@ -33,7 +33,7 @@ Antivirus companies Invincea, CrowdStrike, eGambit and F-Prot hardly withheld op
 
 It is included as adversity, in the combat to malicious applications, the fact of the commercial antiviruses do not possess a pattern in the classification of the malwares as seen in Table 3. We choose 3 of 1,000 malwares samples in order to exemplify the miscellaneous classifications of commercial antiviruses. The chosen malware are VirusShare_001627d61a1bde3478ca4965e738dc1e, VirusShare_075efef8c9ca2f675be296d5f56406fa and VirusShare_0dab86f850fd3dafc98d0f2b401377d5. In this way, the time when manufacturers react to a new virtual plague is affected dramatically. As there is no a pattern, antiviruses give the names that they want, for example, a company can identify a malware as "Trojan.Linux.Generic.69575" and a second company identify it as "ELF:DDoS-S [Trj]". Therefore, the lack of a pattern, besides the no-sharing of information among the antivirus manufacturers, hinders the fast and effective detection of a malicious application.
 
-###### Table 2 Results of 68 commercial antiviruses:
+###### Table 1 Results of 77 commercial antiviruses:
 
 Antivirus |	Deteccion (%) |	False Negative (%) |	Omission (%)
 --------- | ------------- | ------------------ | -------------
@@ -115,7 +115,7 @@ TotalDefense	|1,36|	7,1|	91,54|
 CMC	|1	|98,73|	|0,27|
 Avast-Mobile	|0	|8,1	|91,9|
 
-###### Table 3 Miscellaneous classifications of commercial antiviruses:
+###### Table 2 Miscellaneous classifications of commercial antiviruses:
 
 Antivírus |	VirusShare_001627d61a1bde3478ca4965e738dc1e |	VirusShare_075efef8c9ca2f675be296d5f56406fa |	VirusShare_0dab86f850fd3dafc98d0f2b401377d5
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
